@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/qfo6/revel-cmd/logger"
+	"github.com/AtScaleInc/revel-cmd/logger"
 	"github.com/revel/config"
 	"github.com/stretchr/testify/assert"
 )

@@ -4,8 +4,8 @@ import (
 	"go/ast"
 	"go/token"
 
-	"github.com/qfo6/revel-cmd/model"
-	"github.com/qfo6/revel-cmd/utils"
+	"github.com/AtScaleInc/revel-cmd/model"
+	"github.com/AtScaleInc/revel-cmd/utils"
 )
 
 // Scan app source code for calls to X.Y(), where X is of type *Validation.

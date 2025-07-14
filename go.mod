@@ -1,4 +1,4 @@
-module github.com/qfo6/revel-cmd
+module github.com/AtScaleInc/revel-cmd
 
 go 1.22.0
 

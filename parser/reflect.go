@@ -17,8 +17,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/qfo6/revel-cmd/model"
-	"github.com/qfo6/revel-cmd/utils"
+	"github.com/AtScaleInc/revel-cmd/model"
+	"github.com/AtScaleInc/revel-cmd/utils"
 )
 
 // A container used to support the reflection package.

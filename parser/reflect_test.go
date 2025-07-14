@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/qfo6/revel-cmd/model"
-	revelParser "github.com/qfo6/revel-cmd/parser"
+	"github.com/AtScaleInc/revel-cmd/model"
+	revelParser "github.com/AtScaleInc/revel-cmd/parser"
 )
 
 const validationKeysSource = `

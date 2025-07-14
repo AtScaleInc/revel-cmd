@@ -14,8 +14,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/qfo6/revel-cmd/model"
-	"github.com/qfo6/revel-cmd/utils"
+	"github.com/AtScaleInc/revel-cmd/model"
+	"github.com/AtScaleInc/revel-cmd/utils"
 )
 
 // Error is used for constant errors.

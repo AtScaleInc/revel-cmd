@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/qfo6/revel-cmd/model"
-	main "github.com/qfo6/revel-cmd/revel"
-	"github.com/qfo6/revel-cmd/utils"
+	"github.com/AtScaleInc/revel-cmd/model"
+	main "github.com/AtScaleInc/revel-cmd/revel"
+	"github.com/AtScaleInc/revel-cmd/utils"
 	"github.com/stretchr/testify/assert"
 )
 

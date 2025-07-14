@@ -12,9 +12,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	cmd "github.com/qfo6/revel-cmd"
-	"github.com/qfo6/revel-cmd/model/command"
-	"github.com/qfo6/revel-cmd/utils"
+	cmd "github.com/AtScaleInc/revel-cmd"
+	"github.com/AtScaleInc/revel-cmd/model/command"
+	"github.com/AtScaleInc/revel-cmd/utils"
 )
 
 // The constants.

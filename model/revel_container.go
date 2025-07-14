@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/qfo6/revel-cmd/utils"
+	"github.com/AtScaleInc/revel-cmd/utils"
 	"github.com/revel/config"
 	"golang.org/x/tools/go/packages"
 )

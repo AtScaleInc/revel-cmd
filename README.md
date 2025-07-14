@@ -2,7 +2,7 @@
 
 [![Build Status](https://secure.travis-ci.org/revel/cmd.svg?branch=master)](http://travis-ci.org/revel/cmd) 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/qfo6/revel-cmd)](https://goreportcard.com/report/github.com/qfo6/revel-cmd)
+[![Go Report Card](https://goreportcard.com/badge/github.com/AtScaleInc/revel-cmd)](https://goreportcard.com/report/github.com/AtScaleInc/revel-cmd)
 
 Provides the `revel` command, used to create and run Revel apps.
 
@@ -11,7 +11,7 @@ Provides the `revel` command, used to create and run Revel apps.
 Install
 ------------
 ```bash
-go install github.com/qfo6/revel-cmd/revel@latest
+go install github.com/AtScaleInc/revel-cmd/revel@latest
 ```
 
 New Application

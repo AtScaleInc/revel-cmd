@@ -7,9 +7,9 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/qfo6/revel-cmd/logger"
-	"github.com/qfo6/revel-cmd/model"
-	"github.com/qfo6/revel-cmd/utils"
+	"github.com/AtScaleInc/revel-cmd/logger"
+	"github.com/AtScaleInc/revel-cmd/model"
+	"github.com/AtScaleInc/revel-cmd/utils"
 	"github.com/stretchr/testify/assert"
 )
 

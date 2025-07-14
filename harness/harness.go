@@ -34,9 +34,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/qfo6/revel-cmd/model"
-	"github.com/qfo6/revel-cmd/utils"
-	"github.com/qfo6/revel-cmd/watcher"
+	"github.com/AtScaleInc/revel-cmd/model"
+	"github.com/AtScaleInc/revel-cmd/utils"
+	"github.com/AtScaleInc/revel-cmd/watcher"
 )
 
 var (

@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/qfo6/revel-cmd/model"
-	"github.com/qfo6/revel-cmd/parser"
-	"github.com/qfo6/revel-cmd/parser2"
-	"github.com/qfo6/revel-cmd/utils"
+	"github.com/AtScaleInc/revel-cmd/model"
+	"github.com/AtScaleInc/revel-cmd/parser"
+	"github.com/AtScaleInc/revel-cmd/parser2"
+	"github.com/AtScaleInc/revel-cmd/utils"
 )
 
 var importErrorPattern = regexp.MustCompile("cannot find package \"([^\"]+)\"")
