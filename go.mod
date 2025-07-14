@@ -1,6 +1,6 @@
 module github.com/qfo6/revel-cmd
 
-go 1.22.0
+go 1.23.0
 
 toolchain go1.23.3
 
@@ -34,8 +34,8 @@ require (
 	github.com/revel/pathtree v0.0.0-20140121041023-41257a1839e9 // indirect
 	github.com/xeonx/timeago v1.0.0-rc5 // indirect
 	golang.org/x/mod v0.22.0 // indirect
-	golang.org/x/net v0.32.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
 	golang.org/x/sync v0.10.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/sys v0.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
