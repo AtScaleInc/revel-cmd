@@ -6,7 +6,7 @@ package cmd
 
 const (
 	// Version current Revel version
-	Version = "1.1.3"
+	Version = "1.1.5"
 
 	// BuildDate latest commit/release date
 	BuildDate = "2025-07-14"
